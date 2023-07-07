@@ -1,0 +1,7 @@
+Some of the critical steps in machine learning in natural language processing. 
+
+This version of the code: 
+1. Takes in an input array of sentences.
+2. Cleans Data by removing punctuation and setting characters to lower case
+3. Creates a "libraryVector" which stores teh unique
+4. Creates unigram vectors out of the sentences
